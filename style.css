@@ -1,0 +1,185 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: #ffc0cb;
+}
+
+.Jelly {
+    position: absolute;
+    left: 800px;
+    top: 5%;
+}
+
+.UrlBlock {
+    font-weight: bold;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: black;
+    left: 650px;
+    top: 15%;
+}
+
+.TablePosition1 {
+    position: absolute; 
+    left: 525px; 
+    right: 500px;
+    top: 40%;
+}
+
+.NamePosition1 {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; 
+    left: 590px; 
+    right: 500px;
+    top: 62%;
+}
+
+.PricePosition1 {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; 
+    left: 610px; 
+    right: 500px;
+    top: 65%;
+}
+
+.TablePosition2 {
+    position: absolute; 
+    left: 825px; 
+    right: 500px;
+    top: 40%;
+}
+
+.NamePosition2 {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; 
+    left: 895px; 
+    right: 500px;
+    top: 62%;
+}
+
+.PricePosition2 {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; 
+    left: 915px; 
+    right: 500px;
+    top: 65%;
+}
+
+.TablePosition3 {
+    position: absolute; 
+    left: 1125px; 
+    right: 500px;
+    top: 40%;
+}
+
+.NamePosition3 {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; 
+    left: 1200px; 
+    right: 500px;
+    top: 62%;
+}
+
+.PricePosition3 {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; 
+    left: 1220px; 
+    right: 500px;
+    top: 65%;
+}
+
+.TablePosition4 {
+    position: absolute; 
+    left: 525px; 
+    right: 500px;
+    top: 80%;
+}
+
+.NamePosition4 {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; 
+    left: 590px; 
+    right: 500px;
+    top: 102%;
+}
+
+.PricePosition4 {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; 
+    left: 610px; 
+    right: 500px;
+    top: 105%;
+}
+
+.TablePosition5 {
+    position: absolute; 
+    left: 825px; 
+    right: 500px;
+    top: 80%;
+}
+
+.NamePosition5 {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; 
+    left: 890px; 
+    right: 500px;
+    top: 102%;
+}
+
+.PricePosition5 {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; 
+    left: 910px; 
+    right: 500px;
+    top: 105%;
+}
+
+.TablePosition6 {
+    position: absolute; 
+    left: 1125px; 
+    right: 500px;
+    top: 80%;
+}
+
+.NamePosition6 {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; 
+    left: 1200px; 
+    right: 500px;
+    top: 102%;
+}
+
+.PricePosition6 {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; 
+    left: 1220px; 
+    right: 500px;
+    top: 105%;
+}
+
+.Copyright {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; 
+    top: 125%;
+
+}
+
